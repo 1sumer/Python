@@ -1,0 +1,22 @@
+1.Display Top 10 Rows of The Dataset
+2. Check Last 10 Rows of The Dataset
+3. Find Shape of Our Datset (Number of Rows And Number Of Columns)
+4. Getting Information About Our Dataset Like Total Number Rows
+5. Check Null Values In The Dataset
+6. Drop ID, Notes,Benefits and Status Columns
+7. Get Overall Statistics About The Dataframe
+8. Find Occurence of The Employee Names (Top 5)
+9. Find The Number of Unique Job Titles
+10.Total Number of Job Titles Contain Captain
+11. Displays All The Employee Names From Fire Department
+12. Find Minimum, Maximum And Average BasePay
+13. Replace 'Not Provided' in EmployeeName' Column to NaN
+14. Drop THe Rows Having More Than 5 Missing Values
+15. Find Job Title of NATHANIEL FORD
+16. year-wise gain for the employee with the highest total pay and benefits?
+17. Display Name of The Person Having The Highest BasePay
+18. Find Average BasePay of All Employee Per Year
+19. Find Average BasePay of All Employee Per Job Title 
+20. Find Average BasePAy of Employee HAving Job Title ACCOUNTANT
+21. Find Top 5 Most Common Jobs
+22. Visualize the distribution of BasePay, OvertimePay, and OtherPay using histograms or kernel density plots

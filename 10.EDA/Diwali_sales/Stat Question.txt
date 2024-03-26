@@ -1,0 +1,23 @@
+1.What is the definition of data in the context of statistics?
+2.Name two types of variables and provide an example of each.
+3.Why is data cleansing important before performing statistical analysis?
+4.Differentiate between population and sample.
+5.Define probability in statistical terms.
+6.What is the primary characteristic of a normal distribution?
+7.Explain the significance of the Central Limit Theorem.
+9.What are descriptive statistics, and why are they used?
+10.What does skewness measure in a distribution?
+11.Define kurtosis and its role in describing a distribution.
+12.Explain the concept of correlation between two variables.
+13.What is the correlation coefficient, and how is it interpreted?
+14.Define the coefficient of determination.
+15.What role does standardization play in statistics?
+16.Define a probability density function (PDF).
+17.How does the concept of Z-scores relate to standard normal distribution?
+18.What is the significance of understanding the variability in a dataset?
+19.What is Exploratory Data Analysis (EDA), and why is it important in the data analysis process?
+20.Name three primary goals of EDA.
+21.Explain the difference between univariate and bivariate analysis in EDA.
+22.How does data visualization contribute to EDA, and what are some common visualization techniques?
+23.Define the term "outlier" in the context of EDA and explain its significance.
+24.What is the purpose of a box plot in exploratory data analysis?

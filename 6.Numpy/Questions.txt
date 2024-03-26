@@ -1,0 +1,12 @@
+Given an array [3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5], find the unique elements and their counts.
+Create a diagonal matrix with the elements [2, 4, 6] on the diagonal.
+Given a 2D array, swap the first and second rows.
+Find the index of the maximum value in the array [8, 3, 7, 1, 2, 6, 5].
+Given a 1D array, find the indices where the values are even.
+Create a 5x5 matrix with 1 on the border and 0 inside.
+Given two arrays [1, 2, 3] and [4, 5, 6], perform element-wise multiplication.
+Count the number of elements greater than 3 in the array [1, 4, 2, 7, 5, 0].
+Reshape the array [1, 2, 3, 4] into a 2x2 matrix.
+Given two matrices A and B, check if they are element-wise equal. A = [[1, 2], [3, 4]] B = [[1, 2], [3, 4]]
+Calculate the mean along each row of a 2D array. [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+Replace all odd numbers in the array [10, 15, 20, 25, 30] with -1.
