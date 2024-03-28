@@ -1,6 +1,8 @@
 ,Name,Age,City,Salary,Date,Category
-0,Alice,25,New York,60000,2023-01-01,A
-1,Bob,30,London,75000,2023-01-02,B
-2,Charlie,35,Tokyo,80000,2023-01-03,C
-3,David,28,Paris,62000,2023-01-04,A
-4,Eva,24,Berlin,57000,2023-01-05,B
+0,Alice,25,New York,60000.0,2023-01-01,A
+1,Bob,30,London,75000.0,2023-01-02,B
+2,Charlie,35,Tokyo,80000.0,2023-01-03,C
+3,David,28,Paris,62000.0,2023-01-04,A
+4,Eva,24,Berlin,57000.0,2023-01-05,B
+5,David,28,Paris,62000.0,2023-01-04,A
+6,Eva,24,Berlin,,2023-01-05,B
