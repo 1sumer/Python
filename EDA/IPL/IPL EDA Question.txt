@@ -1,0 +1,44 @@
+1) What is the count of matches played in each season?
+2) How many runs were scored in each season?
+3) What were the total number of matches played and the total runs scored in each season?
+4) Who has umpired the most?
+5) Which team has won the most tosses?
+6) What does the team decide after winning the toss?
+7) How toss decision varies across seasons?
+8) Does winning the toss implies winning the game?
+9) How many times chasing team has won the match?
+10) Which team has won the tournament the most number of times?
+11) Which team has played the most number of matches?
+12) Which team has won the most number of times?
+13) Which team has the highest winning percentage?
+14) Is there any lucky venue for a particular team?
+15) Which is the biggest win in terms of run margin?
+16) What is the count of runs scored from boundaries in each season?
+17) Which stadium has hosted the most number of matches?
+18) Who has won the most MOM awards?
+19) Particular Batsmen analysis
+20) Innings wise comparison between teams
+21) Which batsmen have played the most number of balls?
+22) Who are the leading run-scorers of all time?
+23) Who has hit the most number of 4's?
+24) Who has hit the most number of 6's?
+25) Who has the highest strike rate?
+26) Who is the leading wicket-taker?
+27) What is the count of fours hit in each season?
+28) What is the count of sixes hit in each season?
+29) What is the run contribution from boundaries in each season?
+30) Which team has scored the most runs in the first 6 overs?
+31) Which team has scored the most runs in the last 4 overs?
+32) Which team has the best scoring run-rate in the first 6 overs?
+33) Which team has the best scoring run-rate in the last 4 overs?
+
+
+
+
+
+
+
+
+
+
+
