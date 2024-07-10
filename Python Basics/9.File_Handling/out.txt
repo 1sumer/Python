@@ -1,1 +1,3 @@
-Sameer PashaPython is easy to learn compare to JAVA.sameer
+Hello How Are You
+D:\Python\Python Basics\9.File_Handling\myfile.txt
+D:\Python\Python Basics\9.File_Handling\myfile.txt1
