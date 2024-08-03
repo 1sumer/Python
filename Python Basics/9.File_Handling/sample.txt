@@ -1,2 +1,2 @@
-I am a learner
-Python is easy to learn
+This is the new content.
+easy to learn
