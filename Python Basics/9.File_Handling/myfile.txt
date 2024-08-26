@@ -1,8 +1,2 @@
-Hello How Are You
-D:\Python\Python Basics\9.File_Handling\myfile.txt
-D:\Python\Python Basics\9.File_Handling\myfile.txt1
-D:\Python\Python Basics\9.File_Handling\myfile.txt
-D:\Python\Python Basics\9.File_Handling\myfile.txt2
-D:\Python\Python Basics\9.File_Handling\myfile.txt3
-
-Good NightGood Nightlkjhgf
+sameer
+Sameer.
