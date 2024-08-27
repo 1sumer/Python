@@ -18,5 +18,10 @@
         "name": "David",
         "age": 28,
         "city": "San Francisco"
+    },
+    {
+        "name": "Python",
+        "age": 31,
+        "city": "Bangalore"
     }
 ]
