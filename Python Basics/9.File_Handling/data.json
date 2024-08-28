@@ -23,5 +23,10 @@
         "name": "Python",
         "age": 31,
         "city": "Bangalore"
+    },
+    {
+        "name": "Python",
+        "age": 31,
+        "city": "Bangalore"
     }
 ]
