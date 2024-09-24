@@ -1,4 +1,4 @@
-,Name,Age,City,Salary,Date,Category
+Unnamed: 0,Name,Age,City,Salary,Date,Category
 0,Alice,45.0,New York,95445.0,2023-01-01,A
 1,Bob,58.0,London,86235.0,2023-01-02,B
 2,Charlie,60.0,Tokyo,62330.0,2023-01-03,C
