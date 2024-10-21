@@ -9,3 +9,4 @@ statsmodels
 pydotplus
 graphviz
 pandas sqlalchemy mysql-connector-python
+Jinja2
