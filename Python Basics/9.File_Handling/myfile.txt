@@ -1,1 +1,4 @@
-test@example.com123-456-7890Start this stringThis string ends with End123456Contains whitespace pretest and posttest@#!$%5This does not start with a digitNoWhitespaceHere 
+Hello
+Hi
+How ru
+Good Night
