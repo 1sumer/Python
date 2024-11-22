@@ -10,3 +10,4 @@ pydotplus
 graphviz
 pandas sqlalchemy mysql-connector-python
 Jinja2
+pymupdf
