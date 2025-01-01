@@ -1,7 +1,4 @@
 Hello
 Hi
 How ru
-Good NightSthaya
-
-Python
-Fila Handling
+Good NightUse with statements for safer file handling.
