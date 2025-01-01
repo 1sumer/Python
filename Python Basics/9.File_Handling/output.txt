@@ -1,7 +1,0 @@
-Hello
-Hi
-How ru
-Good NightSthaya
-
-Python
-Fila Handling
