@@ -4,3 +4,5 @@ sqlalchemy
 pydantic
 pytest
 email-validator
+httpx
+pytest-pythonpath
