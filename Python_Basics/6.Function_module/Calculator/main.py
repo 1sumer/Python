@@ -1,6 +1,7 @@
-from greetings import calculator
+from Calculator import 8
 
-obj = calculator(12, 14)
+num1 = float(input("Enter first number: "))
+num2 = 
 
 choice = int(input("Enter your choice: "))
 
