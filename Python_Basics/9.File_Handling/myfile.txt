@@ -1,4 +1,4 @@
 Hello
 Hi
 How ru
-Good NightUse with statements for safer file handling.
+Good NightCode is like humor. When you have to explain it, it’s bad.
